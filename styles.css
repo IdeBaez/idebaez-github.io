@@ -437,9 +437,11 @@
     padding: 25px 0;
   }
 
+
   .resume-page{
-    width: 100%;
+    width: 80%;
     height: 100vh;
+    margin: 0 auto;
   }
 
   /*More projects*/
